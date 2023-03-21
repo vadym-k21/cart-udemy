@@ -50,7 +50,7 @@ As our team is responsible for critical Tier 1 service we are having on-call pro
 As of now on-call process applies only to our Backend services as for the Mobile & Web we have a common infra teams taking care of.
 
 On-call rotation (link)
-Participants: BAcxkend Dev 1, Backend Dev 2, EM
+Participants: Backend Dev 1, Backend Dev 2, EM
 How are we handling incidents? (Link)
 Incident Runbook (link)
 
